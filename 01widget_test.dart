@@ -1,6 +1,6 @@
 void main() {
-  var nama = "AWUL";
-  var umur = 101;
+  var nama = "ATTIN";
+  var umur = 19;
 
   print("nama gw : $nama & umur gw : $umur tahun");
 }
